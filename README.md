@@ -1,4 +1,4 @@
-# Ultrasonic Distance Measurement Using 8052
+# Ultrasonic Distance Measurement Using 8051
 
 A simple embedded systems project that measures the distance of an object using the HC-SR04 ultrasonic sensor and displays the result on a 128x64 OLED display.
 
